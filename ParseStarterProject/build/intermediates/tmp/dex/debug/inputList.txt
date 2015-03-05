@@ -1,0 +1,4 @@
+/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/classes/debug
+/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-2ae7051980fb5e7ec5a5f296bf1a7c865cb1a2f6.jar
+/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.3-9c5a469ff0c386e098a058b72c00762551df88e8.jar
+/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.3-3fc19fa2d0ee19a2b70f38613744a72f76c80504.jar

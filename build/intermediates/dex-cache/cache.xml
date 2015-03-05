@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/libs/Parse-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
+        <dex dex="/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.3-3fc19fa2d0ee19a2b70f38613744a72f76c80504.jar" />
+    </item>
+    <item
+        jar="/home/syscon/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-2ae7051980fb5e7ec5a5f296bf1a7c865cb1a2f6.jar" />
+    </item>
+    <item
+        jar="/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/libs/ParseCrashReporting-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6abf1314a88755b8fa034b2ae99956fc02170ed1">
+        <dex dex="/home/syscon/Downloads/Parse-Starter-Project-1.8.3/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.3-9c5a469ff0c386e098a058b72c00762551df88e8.jar" />
+    </item>
+
+</items>
